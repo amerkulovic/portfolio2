@@ -1,4 +1,4 @@
-import photo from "../assets/images/photo.jpg";
+import photo from "../assets/images/Headshot-cropped.png";
 const About = () => {
   return (
     <div
@@ -13,7 +13,9 @@ const About = () => {
         <p className="font-extralight px-10 text-lg pt-2">Check out my work!</p>
       </div>
       <div className="blob-container ml-10">
-        <img src={photo} alt="Centered Image" className="blob-image" />
+        <div className="blob-shape">
+          <img src={photo} alt="Centered Image" className="blob-image" />
+        </div>
       </div>
     </div>
   );
