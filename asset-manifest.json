@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.87e5dd0c.css",
+    "main.js": "/portfolio/static/js/main.83e29919.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/OceanBuddies.png": "/portfolio/static/media/OceanBuddies.0312907299d1ff1c76e9.png",
+    "static/media/IndianaJones.png": "/portfolio/static/media/IndianaJones.4306aeb12d3e79f353c8.png",
+    "static/media/mymoviespace3.0.png": "/portfolio/static/media/mymoviespace3.0.445cc573bc8232ec8e4c.png",
+    "static/media/NovelNest.png": "/portfolio/static/media/NovelNest.f6a66fb26ff98e95bfc0.png",
+    "static/media/WeatherDashboard.png": "/portfolio/static/media/WeatherDashboard.f2271ff5fdf1a05011f7.png",
+    "static/media/Headshot-cropped.png": "/portfolio/static/media/Headshot-cropped.d1683862367b4d737674.png",
+    "static/media/FutureFinder.png": "/portfolio/static/media/FutureFinder.cf630dde11de4529025c.png",
+    "static/media/web-white.png": "/portfolio/static/media/web-white.261b31141b4c4d64e747.png",
+    "static/media/contact.svg": "/portfolio/static/media/contact.94c130c72474f6368f9855d317787dfb.svg",
+    "index.html": "/portfolio/index.html",
+    "main.87e5dd0c.css.map": "/portfolio/static/css/main.87e5dd0c.css.map",
+    "main.83e29919.js.map": "/portfolio/static/js/main.83e29919.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e5dd0c.css",
+    "static/js/main.83e29919.js"
+  ]
+}
