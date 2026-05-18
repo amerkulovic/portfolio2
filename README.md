@@ -9,3 +9,9 @@ Tailwinds CSS\
 JavaScript\
 CSS\
 HTML
+
+![Portfolio Photo](/src//assets/images/Screenshot.png)
+
+## Link
+
+[Portfolio](https://amerkulovic.github.io/portfolio2/)
