@@ -10,6 +10,8 @@ JavaScript\
 CSS\
 HTML
 
+## Site Photo
+
 ![Portfolio Photo](/src//assets/images/Screenshot.png)
 
 ## Link
