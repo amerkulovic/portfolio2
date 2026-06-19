@@ -1,6 +1,7 @@
 import githubLogo from "../assets/images/github-white.png";
 import linkedInLogo from "../assets/images/linkedIn.png";
 
+// Footer page which is placed at the bottom of the page containing information and links
 const Footer = () => {
   return (
     <div className="bg-black flex justify-between items-end py-12 px-2">
